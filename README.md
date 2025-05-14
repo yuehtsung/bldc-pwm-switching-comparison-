@@ -1,7 +1,7 @@
 # bldc-pwm-switching-comparison
 Simulation models of unipolar, bipolar, and copolar PWM switching schemes for BLDC motor control
 
-This repository provides simulation models and waveform analysis for three different PWM switching strategies used in BLDC motor control:
+This repository provides PSPICE simulation models and waveform analysis for three different PWM switching strategies used in BLDC motor control:
 
 - **Unipolar Switching**
 - **Bipolar Switching**
